@@ -1,2 +1,2 @@
-# betterblox shitty ass skidder source code, have fun with it.
+# betterblox shitty ass skid source code, have fun with it.
 ## get wreckt
